@@ -18,8 +18,9 @@
   <hr>
 
   <h2>📸 Preview</h2>
-  
-
+  <p align="center">
+  <img src="preview.png" alt="TriadDuel Screenshot" width="500">
+</p>
 
   <hr>
 
