@@ -3,40 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>TriadDuel - Stone Paper Scissors Game</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      color: #333;
-      margin: 40px;
-      max-width: 900px;
-    }
-    h1, h2, h3 {
-      color: #1f4e79;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    pre {
-      background: #eee;
-      padding: 10px;
-      overflow-x: auto;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-      border: 1px solid #ccc;
-      margin: 20px 0;
-    }
-    ul {
-      padding-left: 20px;
-    }
-  </style>
+  <title>TriadDuel - Stone Paper Scissors Game</title> 
 </head>
 <body>
 
