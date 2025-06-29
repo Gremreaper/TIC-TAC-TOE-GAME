@@ -3,43 +3,46 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GridWin - Tic Tac Toe Game</title>
 </head>
 <body>
 
-  <h1>🎮 TriadDuel - Stone Paper Scissors Game</h1>
+  <h1>🎯 GridWin - Tic Tac Toe Game</h1>
 
-  <p><strong>TriadDuel</strong> is a vibrant, browser-based version of the timeless <em>Stone Paper Scissors</em> game. Built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, it's perfect for quick matches against the computer with a fun and colorful interface.</p>
+  <p><strong>GridWin</strong> is a clean and interactive version of the classic <em>Tic Tac Toe</em> game. Developed using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, it's designed for quick two-player matches in the browser with a focus on elegant visuals and responsive play.</p>
 
   <hr>
 
   <h2>🚀 Live Demo</h2>
-  <p><em>https://tic-tac-toe-game-eta-rosy.vercel.app/</em></p>
+  <p><a href="https://tic-tac-toe-game-eta-rosy.vercel.app/" target="_blank">https://tic-tac-toe-game-eta-rosy.vercel.app/</a></p>
 
   <hr>
 
   <h2>📸 Preview</h2>
   <p align="center">
-  <img src="preview.png" alt="TriadDuel Screenshot" width="500">
-</p>
+    <img src="preview.png" alt="GridWin Screenshot" width="500">
+  </p>
 
   <hr>
 
   <h2>🕹️ Features</h2>
   <ul>
-    <li>⚡ Instant, responsive gameplay</li>
-    <li>📱 Clean, intuitive UI</li>
-    <li>🤖 Computer vs Player logic</li>
-    <li>🧠 Real-time results after each round</li>
-    <li>🎨 Playful and engaging design</li>
+    <li>🧩 Classic 3x3 Tic Tac Toe grid</li>
+    <li>🙌 Two-player mode on the same device</li>
+    <li>🎉 Instant result detection (win, draw)</li>
+    <li>🔁 Reset button to start a new match</li>
+    <li>📱 Responsive design for desktop and mobile</li>
   </ul>
 
   <hr>
 
   <h2>📂 File Structure</h2>
   <pre>
-TriadDuel/
-├── index.html            # Main file with structure, style & logic
-├── triad-duel-image.png  # Optional image for README preview
+GridWin/
+├── index.html           # Main file with structure and game logic
+├── style.css            # Styling for the game layout and elements
+├── script.js            # JavaScript for game functionality
+├── preview.png          # Optional image for README preview
   </pre>
 
   <hr>
@@ -48,16 +51,16 @@ TriadDuel/
 
   <h3>✅ Prerequisites</h3>
   <ul>
-    <li>A modern browser (Chrome, Firefox, Edge, Safari)</li>
+    <li>A modern web browser (Chrome, Firefox, Edge, Safari)</li>
   </ul>
 
   <h3>💾 Installation</h3>
   <ol>
     <li><strong>Clone the repository:</strong><br>
-      <code>git clone https://github.com/your-username/TriadDuel.git</code>
+      <code>git clone https://github.com/your-username/GridWin.git</code>
     </li>
-    <li><strong>Navigate to the directory:</strong><br>
-      <code>cd TriadDuel</code>
+    <li><strong>Navigate to the project folder:</strong><br>
+      <code>cd GridWin</code>
     </li>
     <li><strong>Launch the game:</strong><br>
       Open <code>index.html</code> in your browser.
@@ -68,16 +71,17 @@ TriadDuel/
 
   <h2>🎮 How to Play</h2>
   <ol>
-    <li>Open the <code>index.html</code> file in your browser.</li>
-    <li>Click on <strong>Stone</strong>, <strong>Paper</strong>, or <strong>Scissors</strong>.</li>
-    <li>The computer will instantly make its move.</li>
-    <li>The result—<strong>Win</strong>, <strong>Lose</strong>, or <strong>Tie</strong>—is displayed.</li>
+    <li>Open <code>index.html</code> in your browser.</li>
+    <li>Player 1 uses "X" and Player 2 uses "O".</li>
+    <li>Take turns clicking an empty square to place your symbol.</li>
+    <li>The game automatically detects and displays the result.</li>
+    <li>Click <strong>Reset</strong> to start a new game!</li>
   </ol>
 
   <hr>
 
   <h2>🤝 Contributing</h2>
-  <p>Contributions are welcome! Fork the repository and submit a pull request to improve features or UI.</p>
+  <p>Feel free to fork this repository, make improvements, and open a pull request. Contributions are appreciated!</p>
 
   <hr>
 
@@ -87,8 +91,9 @@ TriadDuel/
   <hr>
 
   <h2>📬 Feedback</h2>
-  <p>Have suggestions? Open an issue or drop a message. Your feedback is valuable!</p>
+  <p>Suggestions or feedback? Open an issue or reach out—your input makes this project better!</p>
 
 </body>
 </html>
+
 
