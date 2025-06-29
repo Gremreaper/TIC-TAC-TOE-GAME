@@ -13,12 +13,14 @@
   <hr>
 
   <h2>🚀 Live Demo</h2>
-  <p><em>Coming Soon...</em>https://tic-tac-toe-game-eta-rosy.vercel.app/</p>
+  <p><em>https://tic-tac-toe-game-eta-rosy.vercel.app/</em></p>
 
   <hr>
 
   <h2>📸 Preview</h2>
-  <img src=""C:\Users\gauta\OneDrive\Pictures\Screenshots\Screenshot (1101).png"" alt="TriadDuel Game Screenshot">
+  <img src="" alt="TriadDuel Game Screenshot">
+  ![Screenshot (1101)](https://github.com/user-attachments/assets/512cec42-f81e-4caa-9ab4-8b2a1cdd37cd)
+
 
   <hr>
 
