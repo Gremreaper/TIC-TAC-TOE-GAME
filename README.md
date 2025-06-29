@@ -1,93 +1,126 @@
-TriadDuel - Stone Paper Scissors Game
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TriadDuel - Stone Paper Scissors Game</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+      margin: 40px;
+      max-width: 900px;
+    }
+    h1, h2, h3 {
+      color: #1f4e79;
+    }
+    code {
+      background-color: #eee;
+      padding: 2px 4px;
+      border-radius: 4px;
+      font-family: monospace;
+    }
+    pre {
+      background: #eee;
+      padding: 10px;
+      overflow-x: auto;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border: 1px solid #ccc;
+      margin: 20px 0;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎮 TriadDuel - Stone Paper Scissors Game</h1>
+
+  <p><strong>TriadDuel</strong> is a vibrant, browser-based version of the timeless <em>Stone Paper Scissors</em> game. Built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, it's perfect for quick matches against the computer with a fun and colorful interface.</p>
+
+  <hr>
+
+  <h2>🚀 Live Demo</h2>
+  <p><em>Coming Soon...</em> (Host on GitHub Pages or Vercel and add the link here.)</p>
+
+  <hr>
+
+  <h2>📸 Preview</h2>
+  <img src="triad-duel-image.png" alt="TriadDuel Game Screenshot">
+
+  <hr>
+
+  <h2>🕹️ Features</h2>
+  <ul>
+    <li>⚡ Instant, responsive gameplay</li>
+    <li>📱 Clean, intuitive UI</li>
+    <li>🤖 Computer vs Player logic</li>
+    <li>🧠 Real-time results after each round</li>
+    <li>🎨 Playful and engaging design</li>
+  </ul>
+
+  <hr>
+
+  <h2>📂 File Structure</h2>
+  <pre>
+TriadDuel/
+├── index.html            # Main file with structure, style & logic
+├── triad-duel-image.png  # Optional image for README preview
+  </pre>
+
+  <hr>
+
+  <h2>🛠️ Getting Started</h2>
+
+  <h3>✅ Prerequisites</h3>
+  <ul>
+    <li>A modern browser (Chrome, Firefox, Edge, Safari)</li>
+  </ul>
+
+  <h3>💾 Installation</h3>
+  <ol>
+    <li><strong>Clone the repository:</strong><br>
+      <code>git clone https://github.com/your-username/TriadDuel.git</code>
+    </li>
+    <li><strong>Navigate to the directory:</strong><br>
+      <code>cd TriadDuel</code>
+    </li>
+    <li><strong>Launch the game:</strong><br>
+      Open <code>index.html</code> in your browser.
+    </li>
+  </ol>
+
+  <hr>
+
+  <h2>🎮 How to Play</h2>
+  <ol>
+    <li>Open the <code>index.html</code> file in your browser.</li>
+    <li>Click on <strong>Stone</strong>, <strong>Paper</strong>, or <strong>Scissors</strong>.</li>
+    <li>The computer will instantly make its move.</li>
+    <li>The result—<strong>Win</strong>, <strong>Lose</strong>, or <strong>Tie</strong>—is displayed.</li>
+  </ol>
 
-Overview
+  <hr>
 
-TriadDuel is a thrilling Stone Paper Scissors game built with HTML, CSS, and JavaScript, delivering a vibrant interface for strategic showdowns. Face off against the computer and claim victory in this classic battle of wits!
+  <h2>🤝 Contributing</h2>
+  <p>Contributions are welcome! Fork the repository and submit a pull request to improve features or UI.</p>
 
+  <hr>
 
+  <h2>📜 License</h2>
+  <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
 
-Features
+  <hr>
 
+  <h2>📬 Feedback</h2>
+  <p>Have suggestions? Open an issue or drop a message. Your feedback is valuable!</p>
 
+</body>
+</html>
 
-
-
-Simple and intuitive UI for quick gameplay.
-
-
-
-Real-time results display after each round.
-
-
-
-Playful design with a focus on Stone, Paper, and Scissors choices.
-
-Prerequisites
-
-
-
-
-
-A modern web browser (e.g., Chrome, Firefox, Edge).
-
-
-
-No additional dependencies required—just a browser!
-
-Installation
-
-
-
-
-
-Clone or download the repository to your local machine.
-
-
-
-Ensure you have the index.html file (contains HTML, CSS, and JavaScript).
-
-
-
-Place the game image (triad-duel-image.png) in the same directory as index.html (optional, for README display).
-
-Usage
-
-
-
-
-
-Open the index.html file in a web browser.
-
-
-
-Click one of the buttons—Stone, Paper, or Scissors—to make your choice.
-
-
-
-The game will display your choice, the computer's choice, and the result (win, lose, or tie).
-
-File Structure
-
-
-
-
-
-index.html: The main file containing the game logic, styling, and structure.
-
-
-
-triad-duel-image.png: (Optional) Image for the README to showcase the game.
-
-Screenshots
-
-Below is a preview of TriadDuel in action:
-
-
-
-Contributing
-
-Feel free to fork this repository and submit pull requests with improvements or new features!
-
-License
-
-This project is licensed under the MIT License.
