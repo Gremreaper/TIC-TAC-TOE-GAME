@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>TriadDuel - Stone Paper Scissors Game</title> 
 </head>
 <body>
 
@@ -14,12 +13,12 @@
   <hr>
 
   <h2>🚀 Live Demo</h2>
-  <p><em>Coming Soon...</em> (Host on GitHub Pages or Vercel and add the link here.)</p>
+  <p><em>Coming Soon...</em>https://tic-tac-toe-game-eta-rosy.vercel.app/</p>
 
   <hr>
 
   <h2>📸 Preview</h2>
-  <img src="triad-duel-image.png" alt="TriadDuel Game Screenshot">
+  <img src=""C:\Users\gauta\OneDrive\Pictures\Screenshots\Screenshot (1101).png"" alt="TriadDuel Game Screenshot">
 
   <hr>
 
