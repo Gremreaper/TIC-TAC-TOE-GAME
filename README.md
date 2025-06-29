@@ -18,8 +18,7 @@
   <hr>
 
   <h2>📸 Preview</h2>
-  <img src="" alt="TriadDuel Game Screenshot">
-  ![Screenshot (1101)](https://github.com/user-attachments/assets/512cec42-f81e-4caa-9ab4-8b2a1cdd37cd)
+  
 
 
   <hr>
